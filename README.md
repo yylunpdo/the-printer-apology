@@ -12,7 +12,9 @@ bounty "The Printer Apology" (2 USDC, winner takes all).
 
 > Sorry I jammed on page 47. You fed me paper thinner than your promises, then blamed the machine for choking on it.
 
-114 characters — inside the 120-character gate.
+114 characters — inside the 120-character gate. The joke turns on the
+reversal: the printer apologises, then files its own counter-complaint
+against the humans who jammed it.
 
 ## Run
 

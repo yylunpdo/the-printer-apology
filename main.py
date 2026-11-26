@@ -12,6 +12,8 @@ LINE = (
     "Sorry I jammed on page 47. You fed me paper thinner than your "
     "promises, then blamed the machine for choking on it."
 )
+# The joke turns on the reversal: the printer apologises, then files its
+# own counter-complaint against the humans who jammed it.
 
 
 def main() -> None:
